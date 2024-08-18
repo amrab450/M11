@@ -1,4 +1,1 @@
-  new file:   node_modules/.gitignore
-        new file:   node_modules/.package-lock.json
-        new file:   package-lock.json
-        new file:   package.json
+node_modules
